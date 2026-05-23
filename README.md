@@ -163,6 +163,7 @@ decisions and final responsibility are mine.
 
 MIT. See [LICENSE](LICENSE).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20354713.svg)](https://doi.org/10.5281/zenodo.20354713)
 ## Contact
 
 Open an issue, or write directly. Replication attempts, bug reports,

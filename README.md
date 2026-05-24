@@ -168,3 +168,4 @@ MIT. See [LICENSE](LICENSE).
 
 Open an issue, or write directly. Replication attempts, bug reports,
 and ports to other languages are welcome.
+alexander.new.anima@gmail.com
